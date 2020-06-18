@@ -1,0 +1,13 @@
+C:\Users\GICADUDU\Desktop\beatriz\MeusProjetos\Pratica-.Net-e-Csharp\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\GICADUDU\Desktop\beatriz\MeusProjetos\Pratica-.Net-e-Csharp\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\GICADUDU\Desktop\beatriz\MeusProjetos\Pratica-.Net-e-Csharp\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\GICADUDU\Desktop\beatriz\MeusProjetos\Pratica-.Net-e-Csharp\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\GICADUDU\Desktop\beatriz\MeusProjetos\Pratica-.Net-e-Csharp\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\GICADUDU\Desktop\beatriz\MeusProjetos\Pratica-.Net-e-Csharp\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\GICADUDU\Desktop\beatriz\MeusProjetos\Pratica-.Net-e-Csharp\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Users\GICADUDU\Desktop\beatriz\MeusProjetos\Pratica-.Net-e-Csharp\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\GICADUDU\Desktop\beatriz\MeusProjetos\Pratica-.Net-e-Csharp\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\GICADUDU\Desktop\beatriz\MeusProjetos\Pratica-.Net-e-Csharp\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\GICADUDU\Desktop\beatriz\MeusProjetos\Pratica-.Net-e-Csharp\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\GICADUDU\Desktop\beatriz\MeusProjetos\Pratica-.Net-e-Csharp\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\GICADUDU\Desktop\beatriz\MeusProjetos\Pratica-.Net-e-Csharp\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
